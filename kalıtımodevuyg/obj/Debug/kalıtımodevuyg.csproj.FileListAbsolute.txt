@@ -1,0 +1,7 @@
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\bin\Debug\kalıtımodevuyg.exe.config
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\bin\Debug\kalıtımodevuyg.exe
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\bin\Debug\kalıtımodevuyg.pdb
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\obj\Debug\kalıtımodevuyg.csproj.AssemblyReference.cache
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\obj\Debug\kalıtımodevuyg.csproj.CoreCompileInputs.cache
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\obj\Debug\kalıtımodevuyg.exe
+C:\Users\GG\Desktop\C#\kalıtımodevuyg\obj\Debug\kalıtımodevuyg.pdb
